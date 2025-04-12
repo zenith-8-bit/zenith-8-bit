@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF90&center=true&vCenter=true&width=435&lines=Hobbyist+Programmer+%2F+SCRIPT+WRITER;I+build+weird%2C+fun+%2C+cringe+stuff!" alt="Typing SVG" />
 </p>
 
-
+```text
                _ __  __       ___      __   _ __ 
  ___ ___ ___  (_) /_/ /  ____( _ )____/ /  (_) /_
 /_ // -_) _ \/ / __/ _ \/___/ _  /___/ _ \/ / __/
 /__/\__/_//_/_/\__/_//_/    \___/   /_.__/_/\__/ 
                                                  
-
+```
 > ⚙️ I love computation, scripting, pen-testing, and throwing random code at the wall to see what sticks.
 
 ---
