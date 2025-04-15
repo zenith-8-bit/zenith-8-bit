@@ -29,8 +29,8 @@
 - [`MalwareSourceCode`](https://github.com/zenith-8-bit/MalwareSourceCode) (forked)  
   _A digital museum of malware written in Assembly and beyond._
 
-- [`multi-user-live-test-toolkit`](https://github.com/zenith-8-bit/multi-user-live-test-toolkit)  
-  _Real-time testing tool with MCQ + numericals. Powered by SvelteKit + Express + socket.io.[under construction]_
+- [`manipuri-to-english-translation-db `](https://github.com/zenith-8-bit/manipuri-translator-NLLB-finetune)  
+  _trying to ultimately finetune NLLB to translate manipuri.[under construction]_
 
 ---
 
