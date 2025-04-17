@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-
+#using a boilerplate theme fixing it currently sorry if it appears cringe
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=30&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=ZENITH+8-BIT;Security+Enthusiast+%26+Code+Alchemist;Turning+Coffee+Into+Weird+Code;10%2B+Years+Of+Chaos+Engineering" alt="Typing SVG" />
 </p>
