@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a dedicated **Security Researcher** and **Software Developer** with a profound interest in **systems programming**, **offensive security**, and **full-stack development**. My work often navigates the intricate world of low-level systems and robust application development.
+I'm an undergrad **CSE** student with a profound interest in **systems programming**, **offensive security**, **single camera ODS system**, **3d fabrication**,**mechatronical system** , and **robotics**. My work often navigates the intricate world of low-level systems and robust application development.
 
 Specializing in C++, Python, and JavaScript, I thrive on building unique solutions for complex challenges, pushing the boundaries of what's possible in software and security.
 
