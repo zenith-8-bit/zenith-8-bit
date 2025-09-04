@@ -1,63 +1,91 @@
-<!-- GitHub Profile README -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00FF90&center=true&vCenter=true&width=435&lines=Hobbyist+Programmer+%2F+Burp-Suite_user;I+build+weird%2C+fun+%2C+cringe+stuff!" alt="Typing SVG" />
+  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/2324734d-e9ef-4357-9d7a-d03b68b7522d" alt="Header Banner with a Matrix-like background and a subtle 'Zenith' logo in binary" />
 </p>
 
-```text
-               _ __  __       ___      __   _ __ 
- ___ ___ ___  (_) /_/ /  ____( _ )____/ /  (_) /_
-/_ // -_) _ \/ / __/ _ \/___/ _  /___/ _ \/ / __/
-/__/\__/_//_/_/\__/_//_/    \___/   /_.__/_/\__/ 
-                                                 
-```
-> ⚙️ I love computation, scripting, pen-testing, and throwing random code at the wall to see what sticks.
+### Hi there 👋
+
+I'm a dedicated **Security Researcher** and **Software Developer** with a profound interest in **systems programming**, **offensive security**, and **full-stack development**. My work often navigates the intricate world of low-level systems and robust application development.
+
+Specializing in C++, Python, and JavaScript, I thrive on building unique solutions for complex challenges, pushing the boundaries of what's possible in software and security.
 
 ---
 
-### 🔧 Random Code Chaos I’ve Unleashed:
+### My Projects 🚀
 
-- [`cringe-onefile-coding-projects`](https://github.com/zenith-8-bit/cringe-onefile-coding-projects)  
-  _One-file Python programs that probably shouldn’t exist... but do._
+Here’s a glimpse into the diverse projects I'm actively developing or have recently completed:
 
-- [`botnet`](https://github.com/zenith-8-bit/botnet)  
-  _Sample botnet code. For educational purposes, obviously._
+* **`GFPV1` - Google For Pictures Version 1**
+    > A proof-of-concept search engine designed to index and retrieve images based on semantic queries, mirroring the functionality of advanced image search platforms.
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Scraping Badge"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"/>
+    </p>
 
-- [`adb-notification-data-parser`](https://github.com/zenith-8-bit/adb-notification-data-parser)  
-  _Turns raw ADB `dumpsys` notification logs into clean JSON magic._
+* **`RABIDS` - Modular Adversary Simulation Framework**
+    > A sophisticated modular framework for building custom malware payloads, specifically designed for advanced adversary simulation, penetration testing, and in-depth malware research.
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Badge"/>
+      <img src="https://img.shields.io/badge/Offensive%20Security-CC3300?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Offensive Security Badge"/>
+    </p>
 
-- [`MalwareSourceCode`](https://github.com/zenith-8-bit/MalwareSourceCode) (forked)  
-  _A digital museum of malware written in Assembly and beyond._
+* **`sakura` - Terminal Media Renderer**
+    > A lightweight C++ library dedicated to rendering various media types directly within the terminal, pushing the boundaries of console-based graphics.
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+      <img src="https://img.shields.io/badge/Graphics-FF6F00?style=for-the-badge&logo=opengl&logoColor=white" alt="Graphics Badge"/>
+      <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=powershell&logoColor=white" alt="Terminal Badge"/>
+    </p>
 
-- [`manipuri-to-english-translation-db `](https://github.com/zenith-8-bit/manipuri-translator-NLLB-finetune)  
-  _trying to ultimately finetune NLLB to translate manipuri.[under construction]_
+* **`first-person-shooter-c++` - Basic FPS Game**
+    > An experimental first-person shooter game developed in C++, exploring fundamental game development principles and 3D rendering techniques.
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+      <img src="https://img.shields.io/badge/Game%20Dev-FF6F00?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev Badge"/>
+    </p>
+
+* **`zenith` - Autonomous Robotic Companion**
+    > An ongoing robotics project focused on developing an autonomous companion with advanced decision-making and interaction capabilities.
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+      <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics Badge"/>
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Badge"/>
+    </p>
+
+* **`manipuri-translator-NLLB-finetune` - Manipuri Language Translation**
+    > A focused initiative to fine-tune the NLLB (No Language Left Behind) model, aiming to achieve highly accurate and nuanced translations for the Manipuri language.
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP Badge"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning Badge"/>
+    </p>
 
 ---
 
-### 🧠 Featured One-Liners:
+### Areas of Expertise 💡
 
-- `rotatingcube.py` — Terminal 3D cube that works… somehow.
-- `wifi.py / wifi2.py` — Basic WiFi cracking scripts.
-- `chromee.py` — Rickroll delivery mechanism™
-- `instagram-automater.py` — Don’t ask, just vibes.
-- `aitelebot.py` — Telegram bot with LLM-based replies.
-- `crack.py` — Probably a terrible OpenAI API key cracker.
+<p align="center">
+  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/f2e1a3f6-f6c6-4d2c-8d1e-e2c72b0c41d1" alt="Cybersecurity graphic" width="200"/>
+  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/29a4a7b7-59f7-41e9-9060-4c7a5252d6a5" alt="Systems Programming graphic" width="200"/>
+  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/7d2f8e13-1b91-4475-b44e-a6a3b2b4e82f" alt="Web Development graphic" width="200"/>
+</p>
 
----
-
-### 🎯 I build:
-- 🐚 Terminal tools  
-- 🤖 Bots  
-- 🎯 Live multiplayer quiz platforms  
-- 🧠 Thought experiments turned into scripts
+* **Cybersecurity**: Deep dives into reverse engineering, advanced malware analysis, and penetration testing methodologies.
+* **Systems Engineering**: Crafting high-performance, low-level applications using C++ and Python, with a focus on efficiency and control.
+* **Web Development**: Architecting robust full-stack solutions leveraging modern frameworks like SvelteKit, Express.js, and Socket.io.
+* **Machine Learning**: Exploring and implementing cutting-edge NLP and computer vision models for innovative applications.
 
 ---
 
-#### 🛠️  Expect messy, fun, cursed, and occasionally brilliant code.
+### Connect with Me
 
-```text
-printf("Ctrl+C your way into my repos.");
-```
-<p align="center"> <img src="https://img.shields.io/badge/python-💀-informational?style=for-the-badges&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/scripting-🔥-critical?style=for-the-badges"> <img src="https://img.shields.io/badge/hardware-⚡-important?style=for-the-badges"> </p>
-“Because sometimes, the worst code is the most fun.”
-— Me, probably after pushing at 3AM
+Explore my repositories to witness my latest ventures and contributions. I'm always eager to connect with fellow enthusiasts and collaborate on impactful projects.
+
+<p align="center">
+  <a href="https://github.com/zenith-8-bit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
