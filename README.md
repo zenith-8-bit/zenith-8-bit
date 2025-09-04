@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/2324734d-e9ef-4357-9d7a-d03b68b7522d" alt="Header Banner with a Matrix-like background and a subtle 'Zenith' logo in binary" />
+  <img src="https://avatars.githubusercontent.com/u/69503943?s=96&v=4" alt="Header Banner with a Matrix-like background and a subtle 'Zenith' logo in binary" />
 </p>
 
 ### Hi there 👋
