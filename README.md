@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-I'm an undergrad **CSE** student with a profound interest in **systems programming**, **offensive security**, **single camera ODS system**, **3d fabrication**,**mechatronical system** , and **robotics**. My work often navigates the intricate world of low-level systems and robust application development.
+I'm an undergrad **CSE** student with a profound interest in **systems programming**, **single camera ODS system**, **3d fabrication**,**mechatronical system** , and **robotics**. My work often involves low-level systems and  application development.
 
-Specializing in C++, Python, and JavaScript, I survive on Instant Coffee and light warm up exercises.
+Specializing in C++, Python, and Java, I survive on Instant Coffee and light warm up exercises.
 
 ---
 
@@ -23,14 +23,14 @@ Here’s a glimpse into the diverse projects I'm actively developing or have rec
     </p>
 
 * **`RABIDS` - Modular Adversary Simulation Framework**
-    > A sophisticated modular framework for building custom malware payloads, specifically designed for advanced adversary simulation, penetration testing, and in-depth malware research.
+    > A  modular framework for building custom malware payloads, specifically designed for advanced adversary simulation, penetration testing, and in-depth malware research.
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
       <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Badge"/>
       <img src="https://img.shields.io/badge/Offensive%20Security-CC3300?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Offensive Security Badge"/>
     </p>
 
-* **`sakura` - Terminal Media Renderer**
+* **`sakura` - Terminal Media Renderer  [incomplete]**
     > A lightweight C++ library dedicated to rendering various media types directly within the terminal, pushing the boundaries of console-based graphics.
     <p>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
@@ -63,18 +63,6 @@ Here’s a glimpse into the diverse projects I'm actively developing or have rec
 
 ---
 
-### Areas of Expertise 💡
-
-<p align="center">
-  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/f2e1a3f6-f6c6-4d2c-8d1e-e2c72b0c41d1" alt="Cybersecurity graphic" width="200"/>
-  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/29a4a7b7-59f7-41e9-9060-4c7a5252d6a5" alt="Systems Programming graphic" width="200"/>
-  <img src="https://github.com/zenith-8-bit/zenith-8-bit/assets/65007466/7d2f8e13-1b91-4475-b44e-a6a3b2b4e82f" alt="Web Development graphic" width="200"/>
-</p>
-
-* **Cybersecurity**: Deep dives into reverse engineering, advanced malware analysis, and penetration testing methodologies.
-* **Systems Engineering**: Crafting high-performance, low-level applications using C++ and Python, with a focus on efficiency and control.
-* **Web Development**: Architecting robust full-stack solutions leveraging modern frameworks like SvelteKit, Express.js, and Socket.io.
-* **Machine Learning**: Exploring and implementing cutting-edge NLP and computer vision models for innovative applications.
 
 ---
 
