@@ -1,79 +1,132 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/69503943?s=96&v=4" alt="Header Banner with a Matrix-like background and a subtle 'Zenith' logo in binary" />
+  <img src="https://avatars.githubusercontent.com/u/69503943?s=160&v=4" />
 </p>
 
-### Hi there 👋
+## Hi 👋
 
-I'm an undergrad **CSE** student with a profound interest in **systems programming**, **single camera ODS system**, **3d fabrication**,**mechatronical system** , and **robotics**. My work often involves low-level systems and  application development.
+I'm a **CSE undergraduate** interested in **systems programming, robotics, automation, and low-level software**.
 
-Specializing in C++, Python, and Java, I survive on Instant Coffee and light warm up exercises.
+Most of what I build starts as small experiments — tools I need, things I’m curious about, or projects to understand how systems work. A lot of my work lives somewhere between **software, hardware, and scripting things together**.
 
----
+I also occasionally experiment with **machine learning**, especially around **under-resourced language technology**.
 
-### My Projects 🚀
-
-Here’s a glimpse into the diverse projects I'm actively developing or have recently completed:
-
-* **`GFPV1` - Google For Pictures Version 1**
-    > A proof-of-concept search engine designed to index and retrieve images based on semantic queries, mirroring the functionality of advanced image search platforms.
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-      <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Scraping Badge"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"/>
-    </p>
-
-* **`RABIDS` - Modular Adversary Simulation Framework**
-    > A  modular framework for building custom malware payloads, specifically designed for advanced adversary simulation, penetration testing, and in-depth malware research.
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-      <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Badge"/>
-      <img src="https://img.shields.io/badge/Offensive%20Security-CC3300?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Offensive Security Badge"/>
-    </p>
-
-* **`sakura` - Terminal Media Renderer  [incomplete]**
-    > A lightweight C++ library dedicated to rendering various media types directly within the terminal, pushing the boundaries of console-based graphics.
-    <p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-      <img src="https://img.shields.io/badge/Graphics-FF6F00?style=for-the-badge&logo=opengl&logoColor=white" alt="Graphics Badge"/>
-      <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=powershell&logoColor=white" alt="Terminal Badge"/>
-    </p>
-
-* **`first-person-shooter-c++` - Basic FPS Game**
-    > An experimental first-person shooter game developed in C++, exploring fundamental game development principles and 3D rendering techniques.
-    <p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-      <img src="https://img.shields.io/badge/Game%20Dev-FF6F00?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev Badge"/>
-    </p>
-
-* **`zenith` - Autonomous Robotic Companion**
-    > An ongoing robotics project focused on developing an autonomous companion with advanced decision-making and interaction capabilities.
-    <p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-      <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics Badge"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Badge"/>
-    </p>
-
-* **`manipuri-translator-NLLB-finetune` - Manipuri Language Translation**
-    > A focused initiative to fine-tune the NLLB (No Language Left Behind) model, aiming to achieve highly accurate and nuanced translations for the Manipuri language.
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-      <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP Badge"/>
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning Badge"/>
-    </p>
+Native language: **Manipuri (Meiteilon)**
 
 ---
 
+## Things I'm interested in
+
+- systems programming
+- robotics and mechatronics
+- automation and scripting
+- distributed / peer-to-peer systems
+- low-resource NLP
+- small tools that solve everyday problems
 
 ---
 
-### Connect with Me
+## Selected Projects
 
-Explore my repositories to witness my latest ventures and contributions. I'm always eager to connect with fellow enthusiasts and collaborate on impactful projects.
+A few projects I’ve spent significant time on.
 
-<p align="center">
-  <a href="https://github.com/zenith-8-bit">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
+### Multi-User Live Quiz Platform
+Real-time examination system supporting MCQ and numerical tests with a live leaderboard and admin dashboard.
+
+Tech: **Express.js · Socket.io · SvelteKit**
+
+---
+
+### Cursor-for-Phone
+A small experiment to build a **Cursor-style AI agent for Android**.
+
+The tool reads the phone’s **UI XML hierarchy**, understands what’s on screen, and performs taps / typing / gestures to complete tasks described in natural language. Runs locally from **Termux**.
+
+Repo:  
+https://github.com/zenith-8-bit/Cursor-For-Phone
+
+Tech: **Python · Android ADB · Termux**
+
+---
+
+### SoundCloud-style Multi-Device Audio Sharing
+A simple experiment for **sharing live audio between devices** using peer-to-peer WebRTC.
+
+Demo:  
+https://zenith-8-bit.github.io/soundcloud
+
+Tech:  
+**jQuery · Firebase · WebRTC**
+
+---
+
+### ADB Notification Parser
+A small utility for extracting and parsing **Android notifications through ADB logs**, mainly for automation and logging workflows.
+
+Tech: **Python · Android ADB · Termux**
+
+---
+
+### Manipuri–English Translation Corpus
+A repository of **Manipuri ↔ English translation pairs** collected and scraped from different public sources.
+
+The data currently exists in multiple formats and scripts and is intended as a **starting dataset for NLP experiments with under-resourced languages**.
+
+---
+
+## Other Experiments
+
+Some smaller or ongoing projects:
+
+- terminal graphics / rendering experiments in **C++**
+- early **game engine / FPS prototypes**
+- **ROS2 robotics experiments**
+- phone automation scripts
+- datasets and tools for **Manipuri language processing**
+
+---
+
+## Tools I commonly use
+
+**Languages**
+
+Python  
+C++  
+JavaScript  
+Java  
+Bash
+
+**Frameworks / Tools**
+
+Express.js  
+Socket.io  
+SvelteKit  
+ROS2  
+Git  
+ADB  
+Termux  
+MATLAB
+
+**ML / Vision**
+
+PyTorch  
+HuggingFace Transformers  
+OpenCV
+
+**Robotics**
+
+ROS2  
+basic electronics prototyping
+
+---
+
+## Hackathons
+
+Participated in **9 hackathons across AI, systems, and web development**, with **4 winning projects**.
+
+---
+
+## GitHub
+
+Most of my projects are experiments, prototypes, or tools I built while learning.
+
+https://github.com/zenith-8-bit
