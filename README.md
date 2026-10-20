@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Computer Science Undergraduate</strong><br>
-  <em>Systems • AI • Robotics • Automation</em>
+  <em>Software • Automation • Robotics • Language Tools</em>
 </p>
 
 <p align="center">
@@ -21,53 +21,42 @@
 
 ## About
 
-I build tools at the intersection of software, systems, and intelligent automation. My work spans mobile automation, language technologies, real-time applications, and robotics experiments.
+I’m a CS student interested in building practical software: automation tools, robotics experiments, and projects that sit between systems and real-world use.
 
-I enjoy turning ambitious ideas into working prototypes — especially projects that combine practicality, technical depth, and a bit of experimentation.
+I like working on things that are technically interesting but still useful in everyday workflows. A lot of my work is about exploring ideas quickly, learning by building, and turning rough prototypes into something that actually works.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### MixVault
-A browser extension that turns YouTube and YouTube Music mixes into reusable, organized collections.
+A browser extension that turns YouTube and YouTube Music mixes into reusable collections.
 
-- Designed for long-form listening workflows
-- Extracts and structures mix content into reusable playlists
+- Organizes long-form listening into a cleaner workflow
+- Rebuilds mix content into reusable listening sets
 - Built around browser automation and content handling
 
 Tech: JavaScript, Chrome Extension APIs
 
 Repository: https://github.com/zenith-8-bit/MixVault
 
-### Cursor for Phone
-An Android automation system inspired by AI computer-use agents, but built to run locally from Termux.
-
-- Performs UI interaction through device automation
-- Targets local Android workflows without a desktop dependency
-- Explores AI + automation at the device layer
-
-Tech: Python, ADB, Android, Termux
-
-Repository: https://github.com/zenith-8-bit/Cursor-For-Phone
-
 ### Meitei Mayek Transliteration Tool
-A language-focused tool for transliterating Romanized Manipuri text into Meitei Mayek script.
+A language-focused tool for converting Romanized Manipuri text into Meitei Mayek script.
 
-- Supports native script preservation in digital workflows
-- Built with attention to language accuracy and usability
-- Reflects interest in underrepresented language technology
+- Helps preserve native script in digital writing
+- Built with attention to script accuracy and usability
+- Focused on a real language workflow rather than just experimentation
 
 Tech: WebAssembly, JavaScript, Python
 
 Repository: https://github.com/zenith-8-bit/meitei-mayek-transliteration
 
 ### Live Test Toolkit
-A real-time live exam platform for multi-user assessment environments.
+A real-time assessment platform for live multi-user quizzes and exams.
 
-- Synchronized sessions with live ranking
-- Admin controls and responsive UI
-- Built around Express + Socket.io + SvelteKit
+- Supports synchronized sessions and live rankings
+- Includes admin controls and a responsive UI
+- Built with Express, Socket.io, and SvelteKit
 
 Tech: Express.js, Socket.io, SvelteKit
 
@@ -77,25 +66,21 @@ Repository: https://github.com/zenith-8-bit/multi-user-live-test-toolkit
 
 ## Current Focus
 
-- AI-powered automation for devices and workflows
-- Real-time systems and networked applications
+- Automation and tooling for real workflows
+- Systems programming and practical software design
 - Robotics and embedded experimentation
-- Language technology for underserved communities
-- Building tools that feel useful, not just experimental
+- Language technologies and underrepresented scripts
+- Building things that are useful, not just flashy
 
 ---
 
 ## Stack
 
-Python • C++ • JavaScript • Linux • ROS2 • Git • ADB • Termux • WebRTC • Socket.io
+Python • C++ • JavaScript • Linux • Git • ADB • Termux • ROS2 • Socket.io
 
 ---
 
-## Open to Internships
-
-I’m open to internship opportunities in software engineering, AI, robotics, automation, or systems-driven product work.
-
-If you’re building interesting things, I’d love to connect.
+I’m open to collaborations, side projects, and opportunities where I can learn by building meaningful software.
 
 <p align="center">
   <a href="https://github.com/zenith-8-bit">
