@@ -40,6 +40,17 @@ Tech: JavaScript, Chrome Extension APIs
 
 Repository: https://github.com/zenith-8-bit/MixVault
 
+### Neostudio
+A mobile-first Android development setup built around Termux, ADB, and Python automation.
+
+- Experiments with local mobile-based development workflows
+- Uses ADB and shell tooling to simulate a lightweight IDE environment
+- Focused on practical Android automation rather than abstract app demos
+
+Tech: Python, Shell, ADB, Android, Termux
+
+Repository: https://github.com/zenith-8-bit/neostudio
+
 ### Meitei Mayek Transliteration Tool
 A language-focused tool for converting Romanized Manipuri text into Meitei Mayek script.
 
