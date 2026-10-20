@@ -40,16 +40,16 @@ Tech: JavaScript, Chrome Extension APIs
 
 Repository: https://github.com/zenith-8-bit/MixVault
 
-### Neostudio
-A mobile-first Android development setup built around Termux, ADB, and Python automation.
+### MICHAK
+An experimental Python project focused on automated astronomical discovery and signal analysis.
 
-- Experiments with local mobile-based development workflows
-- Uses ADB and shell tooling to simulate a lightweight IDE environment
-- Focused on practical Android automation rather than abstract app demos
+- Explores data-driven workflows for detecting patterns in observational data
+- Connects software experimentation with scientific discovery tools
+- Focused on building intelligent systems for exploratory research
 
-Tech: Python, Shell, ADB, Android, Termux
+Tech: Python, GDScript, Data Processing, Automation
 
-Repository: https://github.com/zenith-8-bit/neostudio
+Repository: https://github.com/zenith-8-bit/MICHAK
 
 ### Meitei Mayek Transliteration Tool
 A language-focused tool for converting Romanized Manipuri text into Meitei Mayek script.
