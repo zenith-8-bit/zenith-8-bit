@@ -41,13 +41,13 @@ Tech: JavaScript, Chrome Extension APIs
 Repository: https://github.com/zenith-8-bit/MixVault
 
 ### MICHAK
-An experimental Python project focused on automated astronomical discovery and signal analysis.
+An experimental Godot game focused on exploring an open world environment.
 
-- Explores data-driven workflows for detecting patterns in observational data
-- Connects software experimentation with scientific discovery tools
-- Focused on building intelligent systems for exploratory research
+- Explores godot shaders
+- experimentation with control mechanics
+- audio engineering 
 
-Tech: Python, GDScript, Data Processing, Automation
+Tech: Python, GDScript, Data Processing
 
 Repository: https://github.com/zenith-8-bit/MICHAK
 
